@@ -16,7 +16,7 @@ export default function Navbar() {
   return (
     <nav className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${isScrolled ? 'bg-white/90 backdrop-blur-md shadow-sm' : 'bg-transparent'
       }`}>
-      <div className="max-w-7xl mx-auto px-1 py-4">
+      <div className=" max-w-5xl mx-auto px-4 py-4 md:max-w-full md:px-10">
         <div className="flex justify-between items-center">
           <div className={`${isScrolled ? 'bg-white' : 'bg-blue-50'}`}>
             <img src="logo1.png" className="w-28 mix-blend-multiply" />
