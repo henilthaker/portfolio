@@ -8,18 +8,18 @@ export default function Hero() {
         <div className="grid md:grid-cols-2 gap-8 items-center">
           <div className="px-20 order-last md:order-first">
             <div className="space-y-5">
-              <div className="text-2xl md:text-2xl font-bold text-gray-600">
+              <div className="text-2xl md:text-2xl font-bold text-gray-600 flex justify-center">
                 Hello, I'm
               </div>
               <h1 className="text-5xl md:text-5xl font-bold">
-                <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent">
+                <span className="bg-gradient-to-r from-blue-600 to-purple-600 bg-clip-text text-transparent flex justify-center">
                   Henil Thaker
                 </span>
               </h1>
-              <h2 className="text-3xl md:text-3xl font-bold text-gray-600">
+              <h2 className="text-3xl md:text-3xl font-bold text-gray-600 flex justify-center">
                 Full-Stack Developer
               </h2>
-              <p className="text-xl text-gray-600">
+              <p className="text-xl text-gray-600 text-center">
                 Passionate software developer with expertise in building web applications using modern technologies
               </p>
               <div className="flex flex-wrap gap-4">
