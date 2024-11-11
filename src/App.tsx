@@ -82,7 +82,7 @@ function App() {
         <div className="max-w-6xl mx-auto px-4">
           <h2 className="text-3xl font-bold text-center mb-4">Skills</h2>
           <div className="w-20 h-1 bg-blue-600 mx-auto mb-12"></div>
-          <div className="flex flex-wrap gap-24 justify-center md:grid-cols-4 gap-8">
+          <div className="flex flex-wrap gap-16 justify-center md:grid-cols-4 gap-24">
             <div className="flex flex-col gap-4 items-center theme-font font-medium text-lg">
               <FaHtml5 className="max-md:w-12 max-md:h-12 w-20 h-20 text-orange-600" />
               <p className="">HTML</p>
