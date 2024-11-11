@@ -24,7 +24,6 @@ export default function Navbar() {
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center gap-8">
             <a href="#about" className="text-gray-600 hover:text-blue-600 transition">About</a>
-            <a href="#experience" className="text-gray-600 hover:text-blue-600 transition">Experience</a>
             <a href="#projects" className="text-gray-600 hover:text-blue-600 transition">Projects</a>
             <a href="#skills" className="text-gray-600 hover:text-blue-600 transition">Skills</a>
             <a href="#contact" className="px-4 py-2 bg-blue-500 text-white rounded-full hover:bg-blue-700 transition">
