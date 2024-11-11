@@ -19,7 +19,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-1 py-4">
         <div className="flex justify-between items-center">
           <div className={`${isScrolled ? 'bg-white' : 'bg-blue-50'}`}>
-            <img src="../../assets/logo1.png" className="w-28 mix-blend-multiply" />
+            <img src="logo1.png" className="w-28 mix-blend-multiply" />
           </div>
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center gap-8">

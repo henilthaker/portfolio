@@ -24,7 +24,7 @@ export default function Hero() {
                   className="px-8 py-4 bg-blue-500 text-white rounded-full hover:bg-blue-700 transition flex items-center gap-2">
                   Contact Me <ChevronRight size={20} />
                 </a>
-                <a href="../../assets/Henil_Resume.pdf"
+                <a href="Henil_Resume.pdf"
                   className="px-8 py-4 border-2 border-blue-600 text-blue-600 rounded-full hover:bg-blue-50 transition flex items-center gap-2">
                   Download CV <Download size={20} />
                 </a>
@@ -34,7 +34,7 @@ export default function Hero() {
           <div className="relative order-first md:order-last">
             <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-full blur-3xl opacity-20"></div>
             <img
-              src="../../assets/myImg.jpg"
+              src="myImg.jpg"
               alt="Henil Thaker"
               className="relative w-60 h-60 rounded-full object-cover border-4 border-white shadow-xl mx-auto"
             />
