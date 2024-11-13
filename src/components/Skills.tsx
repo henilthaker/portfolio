@@ -37,7 +37,7 @@ const Skills = () => {
               <FaNodeJs className="max-md:w-12 max-md:h-12 w-20 h-20 text-green-600" />
               <p className="">NodeJS</p>
             </div>
-            <div className="flex flex-col gap-4 items-center theme-font font-medium text-lg max-md:hidden">
+            <div className="flex flex-col gap-4 items-center theme-font font-medium text-lg">
               <SiExpress className="max-md:w-12 max-md:h-12 w-20 h-20 text-black" />
               <p className="">ExpressJS</p>
             </div>
@@ -59,7 +59,7 @@ const Skills = () => {
               <SiSupabase className="max-md:w-12 max-md:h-12 w-20 h-20 text-green-600  " />
               <p className="">Supabase</p>
             </div> */}
-            <div className="flex flex-col gap-4 items-center theme-font font-medium text-lg max-md:hidden">
+            <div className="flex flex-col gap-4 items-center theme-font font-medium text-lg">
               <TbBrandCpp className="max-md:w-12 max-md:h-12 w-20 h-20 text-blue-600" />
               <p className="">C/C++</p>
             </div>
@@ -67,11 +67,11 @@ const Skills = () => {
               <FaFigma className="max-md:w-12 max-md:h-12 w-20 h-20 text-black  " />
               <p className="">Figma</p>
             </div> */}
-            <div className="flex flex-col gap-4 items-center theme-font font-medium text-lg max-md:hidden">
+            <div className="flex flex-col gap-4 items-center theme-font font-medium text-lg">
               <DiMysql className="max-md:w-12 max-md:h-12 w-20 h-20 text-blue-600" />
               <p className="">MySQL</p>
             </div>
-            <div className="flex flex-col gap-4 items-center theme-font font-medium text-lg max-md:hidden">
+            <div className="flex flex-col gap-4 items-center theme-font font-medium text-lg">
               <DiJava className="max-md:w-12 max-md:h-12 w-20 h-20 text-red-600" />
               <p className="">Java</p>
             </div>
