@@ -11,7 +11,7 @@ const Contact = () => {
             Thank you for taking the time to visit my portfolio website. I am passionate about my work and always looking for opportunities to connect with others who share similar interests. If you have any questions about my portfolio or would like to discuss a potential project, please don't hesitate to get in touch with me. You can easily by reaching out to me on LinkedIn or through an e-mail. I am always open to hearing new ideas and collaborating with others to create something great. So don't be shy, let's connect and see what we can create together!
           </p>
           <div className="gap-6 flex flex-wrap justify-center md:p-2">
-            <a href="mailto:dev.henilthaker@gmail.com"
+            <a href="mailto:henilthaker@gmail.com"
               className="flex items-center gap-2 text-gray-600 hover:text-blue-600 transition group">
               <div className="p-3 bg-red-100 rounded-full group-hover:bg-blue-100 transition">
                 <Mail size={24} className="group-hover:text-blue-600" />
